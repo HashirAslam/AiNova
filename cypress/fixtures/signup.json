@@ -1,0 +1,29 @@
+[
+{
+    "FirstName":"Hashir",
+    "LastName":"Aslam",
+    "Email":"sadiq@gmail.com",
+    "Age":"24",
+    "Password":"Sadiq123@",
+    "ConfirmPassword":"Sadiq123@"
+    
+},
+{
+        "FirstName":"Hashir",
+        "LastName":"Aslam",
+        "Email":"sadiq@gmail.com",
+        "Age":"24",
+        "Password":"Sadiq123@",
+        "ConfirmPassword":"Sadiq13@"
+        
+},
+{
+    "FirstName":"Hashir",
+    "LastName":"Aslam",
+    "Email":"sadqgail.com",
+    "Age":"24",
+    "Password":"Sadiq123@",
+    "ConfirmPassword":"Sadiq123@"
+    
+}  
+]
